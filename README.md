@@ -36,7 +36,12 @@ Image: <img src=![alt text](image-2.png)
     •	Trend of vote average over time
    Image: <img src=![alt text](image-5.png)
 
-     Tableau visualizations: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Dashboard1?publish=yes
+     Tableau visualizations:
+    Dashboard: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Dashboard1?publish=yes
+    Sheet 1: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet1?publish=yes
+    sheet 2: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet2?publish=yes
+    Sheet 3: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet3?publish=yes
+    Sheet 4: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet4?publish=yes
 
 ## Recommendation
   Our Recommendation
