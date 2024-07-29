@@ -56,6 +56,7 @@ Image: <img src=![alt text](image-2.png)
 
 
 •	Prompt for questions: "Do you have any questions?"
+
 •	Contact information: "Name: [Your Name], LinkedIn: [Your LinkedIn Profile]"
 
 
