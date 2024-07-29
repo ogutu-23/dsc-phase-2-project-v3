@@ -34,7 +34,7 @@ Image: <img src=![alt text](image-2.png)
    Image: <img src=![alt text](image-5.png)
 
 ## Recommendation
-  Our Recommendations
+  Our Recommendation
 
     •	Focus on producing films in the top 10 genres by average vote count (e.g. action, comedy, drama)
     •	Prioritize films with high popularity and vote average (e.g. blockbuster franchises)
