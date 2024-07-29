@@ -14,7 +14,7 @@ Image: <img src=![alt text](image-2.png)
     •	Create a new movie studio
     •	Produce films that resonate with audiences
     •	Understand current market trends
- Image: <img src="C:\Users\USER PC\Downloads\universal.jpg"
+ Image: <img src= ![alt text](image-3.png)
 
 ## Data Understanding
 ### Our Data
@@ -22,7 +22,7 @@ Image: <img src=![alt text](image-2.png)
     •	Movie data from ['im.db','bom.movies_gross.csv']
     •	Includes information on genre, studio,     popularity, vote average, and more
     •	Over [3,042] movies analyzed
- Image: <img src="C:\Users\USER PC\Downloads\output.png"
+ Image: <img src=![alt text](image-4.png)
 
 ## Data Analysis
    What We Found
@@ -31,7 +31,7 @@ Image: <img src=![alt text](image-2.png)
     •	Relationship between popularity and vote average
     •	Genre distribution by studio
     •	Trend of vote average over time
-    	Image: <img src="C:\Users\USER PC\Downloads\histogram.png"
+   Image: <img src=![alt text](image-5.png)
 
 ## Recommendation
   Our Recommendations
@@ -40,7 +40,7 @@ Image: <img src=![alt text](image-2.png)
     •	Prioritize films with high popularity and vote average (e.g. blockbuster franchises)
     •	Consider partnering with studios that produce successful films in our target genres
     •	Monitor trends in vote average over time to adjust our strategy
-    	Image: <img src=![alt text](image-1.png)
+   Image: <img src=![alt text](image-1.png)
 
 ## Next Steps
 
@@ -51,7 +51,7 @@ Image: <img src=![alt text](image-2.png)
   
 ## Thank You
  "Thank you for your attention. We hope our insights will help inform your decisions as we launch our new movie studio."
-	Image: <img src=![alt text](image.png)
+   Image: <img src=![alt text](image.png)
 
 
 
