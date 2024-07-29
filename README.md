@@ -34,14 +34,16 @@ Image: <img src=![alt text](image-2.png)
     •	Relationship between popularity and vote average
     •	Genre distribution by studio
     •	Trend of vote average over time
+
+        Tableau visualizations:
+       Dashboard: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Dashboard1?publish=yes
+       Sheet 1: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet1?publish=yes
+       Sheet 2: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet2?publish=yes
+       Sheet 3: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet3?publish=yes
+       Sheet 4: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet4?publish=yes
+
    Image: <img src=![alt text](image-5.png)
 
-     Tableau visualizations:
-    Dashboard: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Dashboard1?publish=yes
-    Sheet 1: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet1?publish=yes
-    sheet 2: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet2?publish=yes
-    Sheet 3: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet3?publish=yes
-    Sheet 4: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Sheet4?publish=yes
 
 ## Recommendation
   Our Recommendation
