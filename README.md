@@ -22,6 +22,9 @@ Image: <img src=![alt text](image-2.png)
     •	Movie data from ['im.db','bom.movies_gross.csv']
     •	Includes information on genre, studio,     popularity, vote average, and more
     •	Over [3,042] movies analyzed
+    
+    link to my data visualizations on tableau: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Dashboard1?publish=yes
+
  Image: <img src=![alt text](image-4.png)
 
 ## Data Analysis
@@ -32,6 +35,8 @@ Image: <img src=![alt text](image-2.png)
     •	Genre distribution by studio
     •	Trend of vote average over time
    Image: <img src=![alt text](image-5.png)
+
+     Tableau visualizations: https://public.tableau.com/app/profile/martin.ogutu/viz/Presentation2_17222521439550/Dashboard1?publish=yes
 
 ## Recommendation
   Our Recommendation
